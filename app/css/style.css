@@ -1,0 +1,13 @@
+body {
+  background-color: rgba(0, 0, 0, 0.05); }
+
+.container {
+  background-color: #fff;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.15);
+  width: 90%;
+  margin: 0 auto;
+  padding: 10px;
+  border-radius: 5px; }
+
+.nav__menu {
+  list-style-type: none; }

@@ -1,0 +1,31 @@
+{
+  "name": "animate_me",
+  "version": "1.0.0",
+  "description": "Drupal theme with animation support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oleg0789/animateMe.git"
+  },
+  "keywords": [
+    "Drupal",
+    "theme"
+  ],
+  "author": "Oleg Elizarov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oleg0789/animateMe/issues"
+  },
+  "homepage": "https://github.com/oleg0789/animateMe#readme",
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "gulp": "^3.9.1",
+    "gulp-if": "^2.0.1",
+    "gulp-sass": "^2.3.1",
+    "gulp-uglify": "^1.5.3",
+    "gulp-useref": "^3.1.0"
+  }
+}
